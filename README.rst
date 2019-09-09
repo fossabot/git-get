@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fawesmubarak%2Fgit-get.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fawesmubarak%2Fgit-get?ref=badge_shield)
+
 =======
 Git-get
 =======
@@ -127,3 +129,7 @@ Edit
 
 The default system editor (run ``echo $EDITOR``) is used to open the packages
 list or configuration file. This allows manual fixing of errors.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fawesmubarak%2Fgit-get.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fawesmubarak%2Fgit-get?ref=badge_large)
